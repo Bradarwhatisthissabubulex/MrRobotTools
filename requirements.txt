@@ -1,0 +1,9 @@
+# MrRobotTools dependencies
+# NOTE: requests/urllib3 are NOT required — we use Python's stdlib urllib
+# via core/http.py to avoid the ImportError issues on Python 3.14+.
+beautifulsoup4>=4.12.0
+python-whois>=0.9.0
+
+# Optional (for EXIF metadata tools — auto-skipped if not installed):
+Pillow>=10.0.0
+exifread>=3.0.0
