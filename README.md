@@ -6,6 +6,10 @@ A clean, from-scratch security & OSINT toolkit with a Kali-style CLI.
 17 tools across Pentesting, OSINT, and Utilities. Green-gradient ASCII
 banner, smooth `(admin@mrrobot)-[path]$` prompt, ethics gate on launch.
 
+## Preview
+
+![Preview](screenshot.png)
+
 ## Why this exists
 
 Plenty of "free" hacking toolkits on GitHub ship with backdoors,
@@ -93,7 +97,8 @@ MrRobotTools/
 ├── build_linux.sh
 ├── mrrobot.spec
 ├── LICENSE.md
-└── README.md
+├── README.md
+└── screenshot.png
 ```
 
 ## Legal & Ethical Use
